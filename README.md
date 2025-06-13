@@ -47,6 +47,3 @@
 #### Contact me 
   <a href = "mailto:eudessilvabezerra985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-Editing eudessb/README.md at main · eudessb/eudessb
