@@ -44,6 +44,13 @@ Wish me luck 🍀
 <a href="https://www.linkedin.com/in/eudes-silva-b64970294" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href="https://br.pinterest.com/eudessb/_profile/" target="_blank">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
+</a>
+
+<a href="https://www.kaggle.com/eudessb" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
 
 <p align="right-center">
   <img src="https://raw.githubusercontent.com/eudessb/eudessb/main/images/monke2.jpg" 
