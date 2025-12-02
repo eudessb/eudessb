@@ -9,6 +9,7 @@ Wish me luck 🍀
   <img src ="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
   <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-ffffff?style=for-the-badge&logo=Jupyter" />
 </p>
 
 #### **Currently learning about:**  
@@ -31,10 +32,6 @@ Wish me luck 🍀
   <img src = "https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
 </p>
 
-#### Github stats
-<p align ="right-center"> <img src="https://github-readme-stats.vercel.app/api?username=eudessb&show_icons=true&theme=dark" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudessb&layout=compact&theme=dark" alt="Linguagens mais usadas" height="180em"/>
-</p> 
 
 
 #### Contacts and other stuff: 
@@ -43,9 +40,6 @@ Wish me luck 🍀
 </a>
 <a href="https://www.linkedin.com/in/eudes-silva-b64970294" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://br.pinterest.com/eudessb/_profile/" target="_blank">
-  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
 </a>
 
 <a href="https://www.kaggle.com/eudessb" target="_blank">
