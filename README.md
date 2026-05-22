@@ -46,8 +46,3 @@ Wish me luck 🍀
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">
 </a>
 
-<p align="right-center">
-  <img src="https://raw.githubusercontent.com/eudessb/eudessb/main/images/monke2.jpg" 
-       alt="Monke" style="border-radius:10px; box-shadow:0 0 10px rgba(0,0,0,0.3);">
-</p>
-<p align="center"><small><i> Powered by coffee and monkeys </i></small></p>
